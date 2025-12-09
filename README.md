@@ -124,7 +124,6 @@ We plan to release:
 | 2015 | Multi-Behavioral Sequential Prediction with Recurrent Log-Bilinear Model | IEEE TKDE | [(https://dl.acm.org/doi/10.1109/TKDE.2017.2661760) |
 | 2018 | Learning from History and Present: Next-item Recommendation via Discriminatively Exploiting User Behaviors  | SIGIR | https://dl.acm.org/doi/10.1145/3219819.3220014 |
 | 2021 | Incorporating Link Prediction into Multi-Relational Item Graph Modeling for Session-Based Recommendation | TKDE | N/A |
-| 2021 | Intent-Aware Recommender Systems | CIKM | N/A |
 | 2022 | Global and Personalized Graphs for Heterogeneous SequentialRecommendation by Learning Behavior Transitions and UserIntentions | RecSys| https://dl.acm.org/doi/10.1145/3523227.3546761 |
 | 2022 | Multi-Behavior Sequential Recommendation with Temporal Graph Transformer | TKDE| https://arxiv.org/abs/2206.02687 |
 | 2024 | Global Heterogeneous Graph and Target Interest Denoising for Multi-behavior Sequential Recommendation | WSDM| https://dl.acm.org/doi/10.1145/3616855.3635857 |
