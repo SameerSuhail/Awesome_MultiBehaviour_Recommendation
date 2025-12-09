@@ -136,6 +136,7 @@ We welcome contributions! You can help by:
 - Adding new research papers to the taxonomy
 - Improving diagrams or summaries
 - Providing benchmarks or datasets
+- Participating in discussions and giving feedback on open issues
 
 ## 📄 Citation
 
