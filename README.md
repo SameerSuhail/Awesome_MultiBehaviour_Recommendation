@@ -121,12 +121,40 @@ We plan to release:
 
 | Year | Title | Venue | Link |
 |------|-------|--------|------|
-| ---- | Contrastive Meta Learning with Behavior Multiplicity for Recommendation | ---- | https://arxiv.org/abs/2202.08523 |
-| ---- | A Self-Supervised Mixture-of-Experts Framework for Multi-behavior Recommendation | ---- | https://arxiv.org/abs/2508.19507 |
-| ---- | Self-supervised Graph Neural Networks for Multi-behavior Recommendation | ---- | https://www.ijcai.org/proceedings/2022/285 |
-| ---- | Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation | ---- | https://arxiv.org/abs/2110.04000 |
-| ---- | Multi-behavior Recommendation with Graph Convolutional Networks | ---- | https://dl.acm.org/doi/10.1145/3397271.3401072 |
-| ---- | Multiplex Graph Neural Networks for Multi-behavior Recommendation | ---- | https://dl.acm.org/doi/pdf/10.1145/3340531.3412119 |
+| 2015 | Recurrent Log-Bilinear Models for Next-Basket Recommendation | IEEE TKDE | N/A |
+| 2018 | Behavioral Intent Neural Network for Recommendation (BINN) | SIGIR | N/A |
+| 2021 | Intent-Aware Recommender Systems | CIKM | N/A |
+| 2021 | Multi-Relational Interaction Graph for Recommendation | AAAI | N/A |
+| 2022 | Graph Prompt Learning for Heterogeneous Sequential Recommendation | SIGIR | N/A |
+| 2022 | Transformer-based Graph Transformer for Recommendation | KDD | N/A |
+| 2024 | Graph Hierarchical Temporal Deep Learning for Recommendation | WWW | N/A |
+| 2025 | Temporal-Aware Graph Contrastive Learning | AAAI | N/A |
+| 2024 | Multi-Behavior Generative Recommendation | KDD | N/A |
+| 2025 | Generative Adaptive Multi-Behavior Recommendation | WWW | N/A |
+| 2025 | Intent-Conditioned Diffusion for Recommendation | AAAI | N/A |
+| 2025 | Multi-Behavior Diffusion-based Sequential Recommendation | SIGIR | N/A |
+| 2025 | Generative Recommendation via Journey-Aware Sparse Attention | WWW | N/A |
+| 2022 | Multi-Behavior Knowledge-Aware Reinforcement Learning | AAAI | N/A |
+| 2023 | Multi-Behavior Session-Based Recommendation via Graph Reinforcement Learning | CIKM | N/A |
+| 2020 | Multi-Behavior Recommendation with Graph Convolutional Networks | AAAI | https://dl.acm.org/doi/10.1145/3397271.3401072 |
+| 2021 | Multi-Behavior Enhanced Recommendation with Cross-Interaction Collaborative Relation Modeling | ICDE | N/A |
+| 2024 | Multi-Behavior Graph Neural Networks for Recommender Systems | IEEE TNNLS | N/A |
+| 2024 | HEC-GCN: Hypergraph Enhanced Cascading GCN | arXiv | https://arxiv.org/abs/2412.14476 |
+| 2024 | Multi-Behavior Partial Order Graph Convolutional Network | arXiv | https://arxiv.org/abs/2402.07659 |
+| 2021 | Hyper Meta-Path Contrastive Learning for Multi-Behavior Recommendation | ICDM | N/A |
+| 2022 | Contrastive Meta Learning with Behavior Multiplicity | WSDM | https://arxiv.org/abs/2202.08523 |
+| 2023 | Multi-Relational Contrastive Learning for Recommendation | arXiv | https://arxiv.org/abs/2309.01103 |
+| 2024 | Contrastive Clustering Learning for Multi-Behavior Recommendation | TOIS | N/A |
+| 2023 | Multi-Behavior Self-Supervised Learning for Recommendation | SIGIR | N/A |
+| 2019 | Neural Multi-task Recommendation from Multi-behavior Data | ICDE | N/A |
+| 2021 | Graph Meta Network for Multi-Behavior Recommendation | SIGIR | N/A |
+| 2023 | Hierarchical Projection Enhanced Multi-Behavior Recommendation | KDD | N/A |
+| 2020 | Efficient Heterogeneous Collaborative Filtering | SIGIR | N/A |
+| 2021 | Knowledge-Enhanced Hierarchical Graph Transformer Network | arXiv | https://arxiv.org/abs/2110.04000 |
+| 2023 | Knowledge-Enhanced Multi-Behavior Contrastive Learning | CIKM | N/A |
+| 2023 | Contrastive Learning with Semantic Knowledge Enhancement | ICDM | https://doi.org/10.1109/ICDM58522.2023.00200 |
+| 2024 | Knowledge-Enhanced Multi-Behavior Contrastive Learning | KDD | N/A |
+
 
 ## 🤝 Contributing
 
